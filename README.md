@@ -56,7 +56,15 @@
 <div align="center">
 
 <a href="https://github.com/MuhammadZakiAnas1">
-<img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://instagram.com/m.za_ans">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="https://hub.docker.com/u/zakimzans">
+  <img src="https://skillicons.dev/icons?i=docker" />
 </a>
 
 </div>
