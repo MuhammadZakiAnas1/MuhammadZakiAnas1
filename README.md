@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff41,100:008f11&height=160&section=header" width="100%"/>
 
-  <h1><font color="#00ff41">⚡ MUHAMMAD ZAKI ANAS ⚡</font></h1>
-  <h3>[ MATRIX MODE : ACTIVE ]</h3>
+  # ⚡ MUHAMMAD ZAKI ANAS ⚡
+  ### [ MATRIX MODE : ACTIVE ]
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=200&color=00FF41&center=true&vCenter=true&width=800&lines=Machine+Learning+Enthusiast;Computer+Science+Student;AI+%7C+Deep+Learning+%7C+Python;Initializing+Neural+Networks..." />
 
@@ -75,20 +75,20 @@ print(agent.execute())
 | **`>_ REPOSITORIES`** | <img src="https://img.shields.io/badge/SCANNING-00FF41?style=flat-square" /> |
 | **`>_ CONTRIBUTIONS`** | <img src="https://img.shields.io/badge/TRACKING-00FF41?style=flat-square" /> |
 
-<br>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MuhammadZakiAnas1&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&text_color=00ff41&icon_color=00ff41&ring_color=00ff41"/> 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZakiAnas1&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&text_color=00ff41"/>
-
 </div>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MuhammadZakiAnas1&show_icons=true&theme=matrix&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZakiAnas1&layout=compact&theme=matrix&hide_border=true" />
+</p>
 
 ---
 
 ### 🔥 MATRIX STREAK
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadZakiAnas1&theme=dark&hide_border=true&background=0a0a0a&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakNum=00ff41&sideNums=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&dates=00ff41"/>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MuhammadZakiAnas1&theme=matrix&hide_border=true" />
+</p>
 
 ---
 
@@ -137,10 +137,10 @@ print(agent.execute())
 <div align="center">
 
 ```diff
-!=====================================!
-!   HOLOGRAM INTERFACE v2.0 - ONLINE  !
-!   WAITING FOR NEXT COMMAND...       !
-!=====================================!
++ ===================================== +
++   HOLOGRAM INTERFACE v2.0 - ONLINE    +
++   WAITING FOR NEXT COMMAND...         +
++ ===================================== +
 ```
 
 </div>
