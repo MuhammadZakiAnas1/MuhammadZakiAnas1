@@ -1,15 +1,13 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff41,100:008f11&height=160&section=header" width="100%"/>
+<h1 align="center"><font color="#00ff41">⚡ MUHAMMAD ZAKI ANAS ⚡</font></h1>
+<p align="center"><b>[ MATRIX MODE : ACTIVE ]</b></p>
 
-  # ⚡ MUHAMMAD ZAKI ANAS ⚡
-  ### [ MATRIX MODE : ACTIVE ]
-
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=200&color=00FF41&center=true&vCenter=true&width=800&lines=Machine+Learning+Enthusiast;Computer+Science+Student;AI+%7C+Deep+Learning+%7C+Python;Initializing+Neural+Networks..." />
+</p>
 
-  <br>
-  
-  `[ SYSTEM ONLINE - HOLOGRAM INTERFACE v2.0 ]`
-</div>
+<p align="center">
+  <code>[ SYSTEM ONLINE - HOLOGRAM INTERFACE v2.0 ]</code>
+</p>
 
 ---
 
@@ -51,31 +49,41 @@ print(agent.execute())
 
 ## 💚 HOLOGRAM TECH STACK
 
-<div align="center">
-
 ### 🖥️ [ AI & NEURAL INTERFACE ]
-<img src="https://img.shields.io/badge/PYTHON-00FF41?style=for-the-badge&logo=python&logoColor=black&labelColor=0a0a0a&color=00ff41" /> <img src="https://img.shields.io/badge/TENSORFLOW-00FF41?style=for-the-badge&logo=tensorflow&logoColor=black&labelColor=0a0a0a&color=00ff41" /> <img src="https://img.shields.io/badge/PYTORCH-00FF41?style=for-the-badge&logo=pytorch&logoColor=black&labelColor=0a0a0a&color=00ff41" /> <img src="https://img.shields.io/badge/SCIKIT_LEARN-00FF41?style=for-the-badge&logo=scikit-learn&logoColor=black&labelColor=0a0a0a&color=00ff41" /> <img src="https://img.shields.io/badge/OPENCV-00FF41?style=for-the-badge&logo=opencv&logoColor=black&labelColor=0a0a0a&color=00ff41" />
+<p align="left">
+  <img src="https://img.shields.io/badge/PYTHON-00FF41?style=for-the-badge&logo=python&logoColor=black&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/TENSORFLOW-00FF41?style=for-the-badge&logo=tensorflow&logoColor=black&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/PYTORCH-00FF41?style=for-the-badge&logo=pytorch&logoColor=black&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/SCIKIT_LEARN-00FF41?style=for-the-badge&logo=scikit-learn&logoColor=black&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/OPENCV-00FF41?style=for-the-badge&logo=opencv&logoColor=black&labelColor=0a0a0a" />
+</p>
 
 ### ⚙️ [ DEVELOPMENT & BACKEND ]
-<img src="https://img.shields.io/badge/NODE.JS-00FF41?style=for-the-badge&logo=nodedotjs&logoColor=black&labelColor=0a0a0a&color=00ff41" /> <img src="https://img.shields.io/badge/JAVASCRIPT-00FF41?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0a0a0a&color=00ff41" /> <img src="https://img.shields.io/badge/JAVA-00FF41?style=for-the-badge&logo=openjdk&logoColor=black&labelColor=0a0a0a&color=00ff41" /> <img src="https://img.shields.io/badge/C%252B%252B-00FF41?style=for-the-badge&logo=cplusplus&logoColor=black&labelColor=0a0a0a&color=00ff41" />
+<p align="left">
+  <img src="https://img.shields.io/badge/NODE.JS-00FF41?style=for-the-badge&logo=nodedotjs&logoColor=black&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-00FF41?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/JAVA-00FF41?style=for-the-badge&logo=openjdk&logoColor=black&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/C%252B%252B-00FF41?style=for-the-badge&logo=cplusplus&logoColor=black&labelColor=0a0a0a" />
+</p>
 
 ### 🌐 [ ENVIRONMENT & DATABASE ]
-<img src="https://img.shields.io/badge/LINUX-00FF41?style=for-the-badge&logo=linux&logoColor=black&labelColor=0a0a0a&color=00ff41" /> <img src="https://img.shields.io/badge/GIT-00FF41?style=for-the-badge&logo=git&logoColor=black&labelColor=0a0a0a&color=00ff41" /> <img src="https://img.shields.io/badge/DOCKER-00FF41?style=for-the-badge&logo=docker&logoColor=black&labelColor=0a0a0a&color=00ff41" /> <img src="https://img.shields.io/badge/VS_CODE-00FF41?style=for-the-badge&logo=visual-studio-code&logoColor=black&labelColor=0a0a0a&color=00ff41" /> <br> <img src="https://img.shields.io/badge/MYSQL-00FF41?style=for-the-badge&logo=mysql&logoColor=black&labelColor=0a0a0a&color=00ff41" /> <img src="https://img.shields.io/badge/MONGODB-00FF41?style=for-the-badge&logo=mongodb&logoColor=black&labelColor=0a0a0a&color=00ff41" />
-
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/LINUX-00FF41?style=for-the-badge&logo=linux&logoColor=black&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/GIT-00FF41?style=for-the-badge&logo=git&logoColor=black&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/DOCKER-00FF41?style=for-the-badge&logo=docker&logoColor=black&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/VS_CODE-00FF41?style=for-the-badge&logo=visual-studio-code&logoColor=black&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/MYSQL-00FF41?style=for-the-badge&logo=mysql&logoColor=black&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/MONGODB-00FF41?style=for-the-badge&logo=mongodb&logoColor=black&labelColor=0a0a0a" />
+</p>
 
 ---
 
 ## 📊 MATRIX STATISTICS
 
-<div align="center">
-
-| METRIK | NILAI |
-| :--- | :--- |
-| **`>_ REPOSITORIES`** | <img src="https://img.shields.io/badge/SCANNING-00FF41?style=flat-square" /> |
-| **`>_ CONTRIBUTIONS`** | <img src="https://img.shields.io/badge/TRACKING-00FF41?style=flat-square" /> |
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/SYSTEM_STATUS-SCANNING_REPOSITORIES-00FF41?style=flat-square" />
+  <img src="https://img.shields.io/badge/DATA_STREAM-TRACKING_CONTRIBUTIONS-00FF41?style=flat-square" />
+</p>
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=MuhammadZakiAnas1&show_icons=true&theme=matrix&hide_border=true" />
@@ -100,20 +108,26 @@ print(agent.execute())
 + DEEP LEARNING MATRIX : INITIALIZED
 ```
 
-<div align="center">
-  <br>
-  <img src="https://img.shields.io/badge/FOLLOWERS-00FF41?style=for-the-badge&logo=github&logoColor=black&labelColor=0a0a0a&color=00ff41" /> <img src="https://komarev.com/ghpvc/?username=MuhammadZakiAnas1&color=00ff41&style=for-the-badge&label=HOLOGRAM+VIEWS&abbreviated=true" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/FOLLOWERS-00FF41?style=for-the-badge&logo=github&logoColor=black&labelColor=0a0a0a" /> 
+  <img src="https://komarev.com/ghpvc/?username=MuhammadZakiAnas1&color=00ff41&style=for-the-badge&label=HOLOGRAM+VIEWS&abbreviated=true" />
+</p>
 
 ---
 
 ## 🌐 MATRIX CONNECTION
 
-<div align="center">
-  <a href="https://github.com/MuhammadZakiAnas1" target="_blank"><img src="https://img.shields.io/badge/GITHUB_MATRIX-00FF41?style=for-the-badge&logo=github&logoColor=black&labelColor=0a0a0a" /></a>
-  <a href="https://instagram.com/m.za_ans" target="_blank"><img src="https://img.shields.io/badge/HOLOGRAM_IG-00FF41?style=for-the-badge&logo=instagram&logoColor=black&labelColor=0a0a0a" /></a>
-  <a href="https://hub.docker.com/u/zakimzans" target="_blank"><img src="https://img.shields.io/badge/DOCKER_HUB-00FF41?style=for-the-badge&logo=docker&logoColor=black&labelColor=0a0a0a" /></a>
-</div>
+<p align="center">
+  <a href="https://github.com/MuhammadZakiAnas1" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB_MATRIX-00FF41?style=for-the-badge&logo=github&logoColor=black&labelColor=0a0a0a" />
+  </a>
+  <a href="https://instagram.com/m.za_ans" target="_blank">
+    <img src="https://img.shields.io/badge/HOLOGRAM_IG-00FF41?style=for-the-badge&logo=instagram&logoColor=black&labelColor=0a0a0a" />
+  </a>
+  <a href="https://hub.docker.com/u/zakimzans" target="_blank">
+    <img src="https://img.shields.io/badge/DOCKER_HUB-00FF41?style=for-the-badge&logo=docker&logoColor=black&labelColor=0a0a0a" />
+  </a>
+</p>
 
 ---
 
@@ -122,9 +136,8 @@ print(agent.execute())
 ```diff
 + 01000001 01010010 01010100 01001001 01000110 01001001 01000011 01001001 01000001 01001100 +
 ```
-<div align="center">
-  <h3>"Artificial Intelligence is the new electricity."</h3>
-</div>
+
+<h3 align="center">"Artificial Intelligence is the new electricity."</h3>
 
 ```diff
 + 01001001 01001110 01010100 01000101 01001100 01001100 01010010 01000111 01000101 01001110 01000011 01000101 +
@@ -132,16 +145,13 @@ print(agent.execute())
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff41,100:008f11&height=100&section=footer&animation=twinkling" width="100%"/>
-
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff41,100:008f11&height=100&section=footer&animation=twinkling" width="100%"/>
+</p>
 
 ```diff
 + ===================================== +
 +   HOLOGRAM INTERFACE v2.0 - ONLINE    +
 +   WAITING FOR NEXT COMMAND...         +
 + ===================================== +
-```
-
-</div>
 ```
