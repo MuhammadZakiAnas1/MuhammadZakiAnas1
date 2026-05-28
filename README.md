@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff41,100:008f11&height=200&section=header&text=ZAKI%20ANAS&fontSize=55&fontColor=00ff41&animation=twinkling&fontAlignY=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff41,100:008f11&height=200&section=header&text=MZ%20ANS&fontSize=55&fontColor=00ff41&animation=twinkling&fontAlignY=50" width="100%"/>
 
   # ⚡ [ MATRIX MODE : ACTIVE ] ⚡
 
